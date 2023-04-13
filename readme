@@ -1,0 +1,7 @@
+echo "# Air-Filter-Sales" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jillraz99/Air-Filter-Sales.git
+git push -u origin main
